@@ -35,7 +35,7 @@ function showHTML(datos){
 
 
 function limpiar() {
-    const cards = document.querySelectorAll('.card');
+    const cards = document.querySelectorAll('.estilo');
     cards.forEach(card => card.remove());
   }
 
